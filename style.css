@@ -1,0 +1,32 @@
+body {
+    background-color: #e7ecef;
+    color: #333;
+    min-height: 100vh;
+}
+
+.container {
+    background-color: #A3CEF1;
+    min-height: 100vh;
+    box-shadow: 0 0 20px #A3CEF1;
+}
+
+h1 {
+    font-weight: bold;
+    text-align: center;
+}
+
+#add-location button,
+#add-location input {
+    border-color: #6096BA;
+}
+
+.card,
+.card li,
+#add-location button {
+    color: #fff;
+    background-color: #274c77;
+}
+
+.btn-close {
+    font-size: 10px;
+}
